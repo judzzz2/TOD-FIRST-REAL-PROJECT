@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    font-family: roboto;
+}
+.header{
+    display: flex;
+    background-color: #1f2937;
+    height: 400px;
+    justify-content: space-between;
+    padding: 24px;
+}
+.left{
+font-size: 24px;
+color: #f9faf8;
+
+}
+ul{
+    list-style: none;
+}
+a{
+ text-decoration: none;
+ color: #f9faf8;
+}
