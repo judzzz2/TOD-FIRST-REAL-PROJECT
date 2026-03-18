@@ -60,13 +60,35 @@ color: #e5e7eb;
     color: #1f2937;
     margin-bottom: 40px;
     text-align: center;
+    padding: 50px;
 }
 img{
     width: 100px;
     height: 100px;
     }
+    .info{
+        padding-bottom: 50px ;
+    }
     .cont2{
         display: flex;
         justify-content: center;
         gap: 50px;
+    }
+    .cont3{
+        background-color: #e5e7eb;
+        padding: 120px;
+        
+        
+    }
+    .text3{
+        font-size: 36px;
+        align-items: center;
+        justify-content: center;
+        color: #1f2937;
+        font-weight:500;
+    }
+    .by{
+        text-align: right;
+        font-size: 30px;
+        font-weight: bolder;
     }
